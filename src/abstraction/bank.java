@@ -14,6 +14,6 @@ public abstract class bank {
 	
 	public abstract void withdraw(int a);
 	public abstract void intrest();
-	public abstract void getbalance();
+	//public abstract void getbalance();
 	
 }
